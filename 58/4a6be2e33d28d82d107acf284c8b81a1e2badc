@@ -1,0 +1,24 @@
+src/views/digest.tsx
+  s_189f57ed9a2d51::t_ab81fd3c5d3052 37-38
+  s_189f57ed9a2d51::t_64c49750c1e1a5 1-36,39-49
+src/app.tsx
+  s_189f57ed9a2d51::t_3bd31b9613021c 3
+  s_189f57ed9a2d51::t_5a3df09032b012 23-32
+  s_189f57ed9a2d51::t_0cb0e9e9ce9d6e 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "584a6be2e33d28d82d107acf284c8b81a1e2badc",
+  "prompts": {},
+  "sessions": {
+    "s_189f57ed9a2d51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "98a90bfb-bc25-45aa-acfe-b3023c450b22",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Lindsey Tibbitts <350882837+schmibbitts@users.noreply.github.com>"
+    }
+  }
+}
