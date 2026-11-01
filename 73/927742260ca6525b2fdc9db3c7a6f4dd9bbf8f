@@ -1,0 +1,19 @@
+src/app.tsx
+  s_189f57ed9a2d51::t_1d86aac3f22978 33-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "73927742260ca6525b2fdc9db3c7a6f4dd9bbf8f",
+  "prompts": {},
+  "sessions": {
+    "s_189f57ed9a2d51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "98a90bfb-bc25-45aa-acfe-b3023c450b22",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Lindsey Tibbitts <350882837+schmibbitts@users.noreply.github.com>"
+    }
+  }
+}
