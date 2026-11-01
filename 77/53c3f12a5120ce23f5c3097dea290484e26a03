@@ -1,0 +1,21 @@
+src/digest/read.ts
+  s_189f57ed9a2d51::t_25cfcb26236ea4 1-70
+test/digest-read.test.ts
+  s_189f57ed9a2d51::t_3f8ad78cd6ce6d 1-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7753c3f12a5120ce23f5c3097dea290484e26a03",
+  "prompts": {},
+  "sessions": {
+    "s_189f57ed9a2d51": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "98a90bfb-bc25-45aa-acfe-b3023c450b22",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Lindsey Tibbitts <350882837+schmibbitts@users.noreply.github.com>"
+    }
+  }
+}
