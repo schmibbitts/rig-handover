@@ -18,6 +18,8 @@ export type Night = {
   rows: DigestRow[];
   // Lines that did not parse. Counted, never thrown: the night still renders.
   badLines: number;
+  // Log lines per status, for the board.
+  counts: Record<RunStatus, number>;
 };
 
 // Signature of readNight(runsDir, night), implemented in src/digest/read.ts. Reads runs/<night>.jsonl. Returns null when the night has no file (the page answers 404);
